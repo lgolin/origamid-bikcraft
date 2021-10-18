@@ -3,186 +3,197 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Bikcraft - Sobre</title>
-  <link href="css/normalize.css" rel="stylesheet">
-  <link href="css/reset.css" rel="stylesheet">
-  <link href="css/grid.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/responsivo.css" rel="stylesheet">
+  <title>Bikcraft - Bicicletas Personalizadas</title>
+
+  <!-- Essa é a descrição que aparece no google  -->
+  <meta name="description" content="Compre a sua bicicleta personalizada na Bikcraft. Possuímos modelos Passeio, Retrô e Esporte">
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Bikcraft - Bicicletas Personalizadas" />
+  <meta property="og:description" content="Compre a sua bicicleta personalizada na Bikcraft. Possuímos modelos Passeio, Retrô e Esporte" />
+  <meta property="og:url" content="https://bikcraft.com" />
+  <meta property="og:image" content="https://bikcraft.com/img/og-image.png" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Icone que fica no topo da página -->
+  <link rel="shortcut icon" href="./img/favicon.ico">
+
+  <link rel="stylesheet" href="./css/style.css">
   <script>document.documentElement.classList.add('js');</script>
 
 </head>
 
 <body>
-<!-- navbar -->
-<header class="header">
-  <div class="container">
-    <a class="grid-4" href="index.html">
-      <img alt="Bikcraft" src="./img/bikcraft.svg">
-    </a>
+  <!-- navbar -->
+  <header class="header">
+    <div class="container">
+      <a class="grid-4" href="index.html">
+        <img alt="Bikcraft" src="./img/bikcraft.svg">
+      </a>
 
-    <nav class="grid-12 header_menu">
-      <ul>
-        <li><a href="sobre.html">Sobre</a></li>
-        <li><a href="produtos.html">Produtos</a></li>
-        <li><a href="portfolio.html">Portfólio</a></li>
-        <li><a href="contato.html">Contato</a></li>
-      </ul>
-    </nav>
-  </div>
-</header>
+      <nav class="grid-12 header_menu">
+        <ul>
+          <li><a href="sobre.html">Sobre</a></li>
+          <li><a href="produtos.html">Produtos</a></li>
+          <li><a href="portfolio.html">Portfólio</a></li>
+          <li><a href="contato.html">Contato</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
-<!--  -->
-<section class="introducao">
-  <div class="container">
-    <h1 data-anime="400" class="fadeInDown">Bicicletas feitas a mão</h1>
-    <blockquote class="quote-externo fadeInDown" data-anime="800">
-      <p>"Não tenha nada em sua casa que você não considere útil ou acreditar ser bonito"</p>
-      <cite>William Morris</cite>
-    </blockquote>
-    <a class="btn fadeInDown" href="produtos.html" data-anime="1200">Orçamento</a>
-  </div>
-</section>
+  <!--  -->
+  <section class="introducao">
+    <div class="container">
+      <h1 data-anime="400" class="fadeInDown">Bicicletas feitas a mão</h1>
+      <blockquote class="quote-externo fadeInDown" data-anime="800">
+        <p>"Não tenha nada em sua casa que você não considere útil ou acreditar ser bonito"</p>
+        <cite>William Morris</cite>
+      </blockquote>
+      <a class="btn fadeInDown" href="produtos.html" data-anime="1200">Orçamento</a>
+    </div>
+  </section>
 
-<!-- Produtos -->
-<section class="produtos container fadeInDown" data-anime="1600">
-  <h2 class="subtitulo">Produtos</h2>
-  <ul class="produtos_lista">
+  <!-- Produtos -->
+  <section class="produtos container fadeInDown" data-anime="1600">
+    <h2 class="subtitulo">Produtos</h2>
+    <ul class="produtos_lista">
 
-    <li class="grid-1-3">
-      <div class="produtos_icone">
-        <img alt="Bikcraft passeio" src="img/produtos/passeio.svg">
-      </div>
-      <h3>Passeio</h3>
-      <p>Ainda assim, existem dúvidas a respeito de como a necessidade de renovação.</p>
-    </li>
+      <li class="grid-1-3">
+        <div class="produtos_icone">
+          <img alt="Bikcraft passeio" src="img/produtos/passeio.svg">
+        </div>
+        <h3>Passeio</h3>
+        <p>Muito melhor do que passar pela orla de de vidros fechados.</p>
+      </li>
 
-    <li class="grid-1-3">
-      <div class="produtos_icone">
-        <img alt="Bikcraft Esporte" src="img/produtos/esporte.svg">
-      </div>
-      <h3>Esporte</h3>
-      <p>Ainda assim, existem dúvidas a respeito de como a necessidade de renovação.</p>
-    </li>
+      <li class="grid-1-3">
+        <div class="produtos_icone">
+          <img alt="Bikcraft Esporte" src="img/produtos/esporte.svg">
+        </div>
+        <h3>Esporte</h3>
+        <p>Mais rápida do que Forrest Gump, ninguém vai pegar você.</p>
+      </li>
 
-    <li class="grid-1-3">
-      <div class="produtos_icone">
-        <img alt="Bikcraft Retrô" src="img/produtos/retro.svg">
-      </div>
-      <h3>Retrô</h3>
-      <p>Ainda assim, existem dúvidas a respeito de como a necessidade de renovação.</p>
-    </li>
+      <li class="grid-1-3">
+        <div class="produtos_icone">
+          <img alt="Bikcraft Retrô" src="img/produtos/retro.svg">
+        </div>
+        <h3>Retrô</h3>
+        <p>O passado volta para lembrarmos o que devemos fazer no futuro.</p>
+      </li>
 
-  </ul>
-
-  <div class="call">
-    <p>clique aqui e veja os detalhes dos produtos</p>
-    <a class="btn btn-preto" href="produtos.html">Produtos</a>
-  </div>
-
-</section>
-
-<!-- Portfólio -->
-<section class="portfolio">
-  <div class="container">
-    <h2 class="subtitulo subtitulo-amarelo">Portfolio</h2>
-
-    <ul class="portfolio_lista">
-      <li class="grid-8"><img alt="Bicicleta Retro" src="img/portfolio/retro.jpg"></li>
-      <li class="grid-8"><img alt="Bicicleta Passeio" src=" img/portfolio/passeio.jpg"></li>
-      <li class="grid-16"><img alt="Bicileta Esporte" src=" img/portfolio/esporte.jpg"></li>
     </ul>
 
     <div class="call">
-      <p>conheça mais o nosso portfolio</p>
-      <a class="btn" href="produtos.html">Portfolio</a>
+      <p>clique aqui e veja os detalhes dos produtos</p>
+      <a class="btn btn-preto" href="produtos.html">Produtos</a>
     </div>
 
-  </div>
-</section>
+  </section>
 
-<!-- Qualidade -->
-<section class="qualidade container">
-  <h2 class="subtitulo">Qualidade</h2>
-  <img alt="Bikcraft" src="img/bikcraft-qualidade.svg">
-
-  <ul class="qualidade_lista">
-    <li class="grid-1-3">
-      <h3>Durabilidade</h3>
-      <p>Ainda assim, existem dúvidas a respeito de como a necessidade de renovação renovação renovação</p>
-    </li>
-
-    <li class="grid-1-3">
-      <h3>Design</h3>
-      <p>Ainda assim, existem dúvidas a respeito de como a necessidade de renovação renovação renovação</p>
-    </li>
-
-    <li class="grid-1-3">
-      <h3>Sustentabilidade</h3>
-      <p>Ainda assim, existem dúvidas a respeito de como a necessidade de renovação renovação renovação</p>
-    </li>
-  </ul>
-
-  <div class="call">
-    <p>conheça mais a nossa história</p>
-    <a class="btn btn-preto" href="produtos.html">Sobre</a>
-  </div>
-</section>
-
-<!-- Frase antes do footer -->
-<section class="quebra">
-  <blockquote class="quote-externo container">
-    <p>"o verdadeiro segredo da felicidade esá em ter um genuíno interesse por todos os detalhes da vida cotidiana."</p>
-    <cite>William Morris</cite>
-  </blockquote>
-</section>
-
-<!-- Footer -->
-<footer>
-  <div class="footer">
+  <!-- Portfólio -->
+  <section class="portfolio">
     <div class="container">
+      <h2 class="subtitulo subtitulo-amarelo">Portfolio</h2>
 
-      <div class="grid-8 footer_historia">
-        <h3>Nossa História</h3>
-        <p>O verdadeiro segredo da felicidade está em ter um genuíno interesse por todos os detalhes da vida cotidiana.
-          interesse por todos os detalhes da vida cotidiana.</p>
-      </div>
+      <ul class="portfolio_lista">
+        <li class="grid-8"><img alt="Bicicleta Retro" src="img/portfolio/retro.jpg"></li>
+        <li class="grid-8"><img alt="Bicicleta Passeio" src=" img/portfolio/passeio.jpg"></li>
+        <li class="grid-16"><img alt="Bicileta Esporte" src=" img/portfolio/esporte.jpg"></li>
+      </ul>
 
-      <div class="grid-4 footer_contato">
-        <h3>Contatos</h3>
-        <ul>
-          <li>- 21 99999-9999</li>
-          <li>- contato@bikcraft.com</li>
-          <li>- Botafogo - RJ</li>
-        </ul>
-      </div>
-
-      <div class="grid-4 footer_redes">
-        <h3>Redes Sociais</h3>
-        <ul>
-          <li><a href="www.facebook.com" target="_blank"><img alt="Facebook" src="img/redes-sociais/facebook.svg"></a>
-          </li>
-          <li><a href="www.instagram.com" target="_blank"><img alt="Facebook" src="img/redes-sociais/instagram.svg"></a>
-          </li>
-          <li><a href="www.twitter.com" target="_blank"><img alt="Facebook" src="img/redes-sociais/twitter.svg"></a>
-          </li>
-        </ul>
+      <div class="call">
+        <p>conheça mais o nosso portfolio</p>
+        <a class="btn" href="produtos.html">Portfolio</a>
       </div>
 
     </div>
-  </div>
+  </section>
 
-  <div class="copy">
-    <div class="container">
-      <p class="grid-16">Bikcraft 2021 — Todos os direitos reservados</p>
+  <!-- Qualidade -->
+  <section class="qualidade container">
+    <h2 class="subtitulo">Qualidade</h2>
+    <img alt="Bikcraft" src="img/bikcraft-qualidade.svg">
+
+    <ul class="qualidade_lista">
+      <li class="grid-1-3">
+        <h3>Durabilidade</h3>
+        <p>Ainda assim, existem dúvidas a respeito de como a necessidade de renovação renovação renovação</p>
+      </li>
+
+      <li class="grid-1-3">
+        <h3>Design</h3>
+        <p>Ainda assim, existem dúvidas a respeito de como a necessidade de renovação renovação renovação</p>
+      </li>
+
+      <li class="grid-1-3">
+        <h3>Sustentabilidade</h3>
+        <p>Ainda assim, existem dúvidas a respeito de como a necessidade de renovação renovação renovação</p>
+      </li>
+    </ul>
+
+    <div class="call">
+      <p>conheça mais a nossa história</p>
+      <a class="btn btn-preto" href="produtos.html">Sobre</a>
     </div>
+  </section>
+
+  <!-- Frase antes do footer -->
+  <div class="quebra">
+    <blockquote class="quote-externo container">
+      <p>"o verdadeiro segredo da felicidade esá em ter um genuíno interesse por todos os detalhes da vida cotidiana."</p>
+      <cite>William Morris</cite>
+    </blockquote>
   </div>
 
-</footer>
+  <!-- Footer -->
+  <footer>
+    <div class="footer">
+      <div class="container">
 
-<!-- JS -->
-<script src="js/simple-anime.js"></script>
-<script src="js/script.js"></script>
+        <div class="grid-8 footer_historia">
+          <h3>Nossa História</h3>
+          <p>O verdadeiro segredo da felicidade está em ter um genuíno interesse por todos os detalhes da vida cotidiana.
+            interesse por todos os detalhes da vida cotidiana.</p>
+        </div>
+
+        <div class="grid-4 footer_contato">
+          <h3>Contatos</h3>
+          <ul>
+            <li>- 21 99999-9999</li>
+            <li>- contato@bikcraft.com</li>
+            <li>- Botafogo - RJ</li>
+          </ul>
+        </div>
+
+        <div class="grid-4 footer_redes">
+          <h3>Redes Sociais</h3>
+          <ul>
+            <li><a href="www.facebook.com" target="_blank"><img alt="Facebook" src="img/redes-sociais/facebook.svg"></a>
+            </li>
+            <li><a href="www.instagram.com" target="_blank"><img alt="Instagram" src="img/redes-sociais/instagram.svg"></a>
+            </li>
+            <li><a href="www.twitter.com" target="_blank"><img alt="Twitter" src="img/redes-sociais/twitter.svg"></a>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="copy">
+      <div class="container">
+        <p class="grid-16">Bikcraft 2021 — Todos os direitos reservados</p>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- JS -->
+  <script src="js/simple-anime.js"></script>
+  <script src="js/script.js"></script>
 </body>
 
 </html>
