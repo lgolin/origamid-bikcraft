@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="578857ba-72e2-4fee-9fab-fc45d0e9c12d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PHPMailer/COMMITMENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/get_oauth_token.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-af.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-am.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-ar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-az.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-ba.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-be.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-bg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-ca.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-ch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-cs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-da.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-el.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-eo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-es.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-et.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-fa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-fi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-fo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-fr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-gl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-he.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-hi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-hr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-hu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-it.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-ja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-ka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-ko.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-lt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-lv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-mg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-ms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-nb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-nl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-pt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-pt_br.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-ro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-sk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-sl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-sr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-sv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-tl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-tr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-uk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-vi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-zh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/language/phpmailer.lang-zh_cn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/src/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/src/OAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/src/PHPMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/src/POP3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPMailer/src/SMTP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enviar-sendgrid.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enviar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/simple-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/.codeclimate.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/.env.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/TODO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/TROUBLESHOOTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/USAGE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/USE_CASES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/docker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/docker/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/docker/USAGE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/docker/entrypoint.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/accesssettings/accesssettings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/alerts/alerts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/apikeys/apikeys.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/asm/asm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/browsers/browsers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/campaigns/campaigns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/categories/categories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/clients/clients.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/contactdb/contactdb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/devices/devices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/geo/geo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/helpers/contacts/recipients.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/helpers/mail/example.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/helpers/stats/example.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/ips/ips.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/mail/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/mailboxproviders/mailboxproviders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/mailsettings/mailsettings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/partnersettings/partnersettings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/scopes/scopes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/senderauthentication/senderauthentication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/senders/senders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/stats/stats.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/subusers/subusers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/suppression/suppression.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/templates/templates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/trackingsettings/trackingsettings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/user/user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/examples/whitelabel/whitelabel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/SendGrid.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/contacts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/contacts/Recipient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/contacts/RecipientForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/helpers/contacts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/helpers/contacts/Recipients.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/helpers/mail/Mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/helpers/mail/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/helpers/stats/Stats.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/loader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Asm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Attachment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/BatchId.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Bcc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/BccSettings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/BypassListManagement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Cc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/ClickTracking.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/CustomArg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/EmailAddress.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/From.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Ganalytics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/GroupId.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/GroupsToDisplay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/HtmlContent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/IpPoolName.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/MailSettings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/MimeType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/OpenTracking.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Personalization.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/PlainTextContent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/ReplyTo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/SandBoxMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/SendAt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/SpamCheck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Subject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/SubscriptionTracking.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Substitution.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/TemplateId.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/To.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/TrackingSettings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/TypeException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/lib/stats/Stats.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/mail-helper-refactor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/phpcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/sendgrid-php.code-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/sendgrid-php.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/sendgrid-php.phpprintf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/temp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/composer/autoload_files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/.codeclimate.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/TROUBLESHOOTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/USAGE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/USE_CASES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/examples/.env_sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/examples/example.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/lib/Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendgrid-php/vendor/sendgrid/php-http-client/lib/Response.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/contato.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produtos.html" beforeDir="false" afterPath="$PROJECT_DIR$/produtos.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zQ5gOTZLGV9Omn0fZ9rZVwVa0f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Omni.Theme-0.1.4.zip" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="578857ba-72e2-4fee-9fab-fc45d0e9c12d" name="Changes" comment="" />
+      <created>1634067584614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634067584614</updated>
+      <workItem from="1634067586533" duration="18724000" />
+      <workItem from="1634392897907" duration="10346000" />
+      <workItem from="1634543724555" duration="2261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
